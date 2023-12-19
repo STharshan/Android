@@ -1,0 +1,140 @@
+.company-name-here2,
+.div33 {
+  position: absolute;
+  top: 0;
+  left: 16.2%;
+  font-weight: 500;
+}
+.div33 {
+  top: 5.08%;
+  font-size: var(--font-size-xs);
+}
+.group-child64 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-300);
+  width: 48px;
+  height: 48px;
+}
+.group-child65 {
+  position: absolute;
+  top: 61px;
+  left: 1px;
+  border-radius: var(--br-base);
+  width: 388px;
+  height: 365px;
+  object-fit: cover;
+}
+.bishare-icon2 {
+  position: absolute;
+  top: 441px;
+  left: 358px;
+  width: 26px;
+  height: 26px;
+  overflow: hidden;
+}
+.group-child66 {
+  position: absolute;
+  top: 436px;
+  left: 353px;
+  border-radius: var(--br-7xs);
+  border: 1px solid var(--color-darkorange);
+  box-sizing: border-box;
+  width: 36px;
+  height: 36px;
+}
+.company-name-here-container {
+  position: absolute;
+  height: 50.64%;
+  width: 90.47%;
+  top: 11.8%;
+  right: 4.88%;
+  bottom: 37.55%;
+  left: 4.65%;
+}
+.bishare-icon3 {
+  position: absolute;
+  top: 441px;
+  left: 358px;
+  width: 26px;
+  height: 26px;
+  overflow: hidden;
+}
+.company-name-here-parent1 {
+  position: absolute;
+  height: 50.64%;
+  width: 90.47%;
+  top: 65.67%;
+  right: 4.88%;
+  bottom: -16.31%;
+  left: 4.65%;
+}
+.group-child70 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-orange-100);
+  width: 116px;
+  height: 36px;
+}
+.apply-now1 {
+  position: absolute;
+  top: 6.6px;
+  left: 23px;
+  font-weight: 500;
+  display: inline-block;
+  width: 70px;
+  height: 18px;
+}
+.rectangle-parent51 {
+  position: absolute;
+  top: 546px;
+  left: 20px;
+  width: 116px;
+  height: 36px;
+  font-size: var(--font-size-sm);
+  color: var(--primary-pure-white);
+}
+.applys-now2 {
+  position: absolute;
+  top: 110px;
+  left: 23px;
+  font-weight: 500;
+  display: inline-block;
+  width: 80px;
+  height: 18px;
+}
+
+.rectangles-parent52 {
+  position: absolute;
+  top: 946px;
+  left: 20px;
+  width: 116px;
+  height: 36px;
+  font-size: var(--font-size-sm);
+  color: var(--primary-pure-white);
+}
+.groups-child71 {
+  position: absolute;
+  top: 102px;
+  left: 1px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-orange-100);
+  width: 116px;
+  height: 36px;
+}
+
+.job-vacancies2 {
+  position: relative;
+  background-color: var(--primary-pure-white);
+  width: 100%;
+  height: 932px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-700);
+  font-family: var(--font-ibm-plex-sans);
+}

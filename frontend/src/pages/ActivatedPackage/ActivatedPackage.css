@@ -1,0 +1,154 @@
+.activated-package-child {
+  position: absolute;
+  top: 110px;
+  left: 21px;
+  border-radius: var(--br-5xs);
+  background-color: var(--primary-pure-white);
+  width: 388px;
+  height: 194px;
+}
+.activated-packages {
+  position: absolute;
+  top: 127px;
+  left: 70px;
+  height: 914px;
+  font-weight: 500;
+  font-family: var(--font-ibm-plex-sans);
+}
+.pharrow-left-bold-icon18 {
+  position: absolute;
+  top: 130px;
+  left: 37px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.d,
+.h,
+.m {
+  position: absolute;
+  top: 0.88%;
+  left: 58.86%;
+}
+.h,
+.m {
+  left: 71.14%;
+}
+.m {
+  top: 0;
+  left: 83.43%;
+}
+.div8,
+.shop-name1 {
+  position: absolute;
+  top: 10.53%;
+  font-weight: 500;
+}
+.shop-name1 {
+  left: 0;
+  color: var(--system-colours-label-colour-primary-light);
+  text-align: left;
+}
+.div8 {
+  left: 57.43%;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div14,
+.div9 {
+  position: absolute;
+  top: 0;
+  left: 65.71%;
+  font-weight: 500;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div14 {
+  left: 78.29%;
+}
+.div11,
+.div12,
+.div13,
+.div14 {
+  left: 90.57%;
+}
+.div12,
+.div13,
+.div14 {
+  top: 10.53%;
+  left: 70%;
+}
+.div13,
+.div14 {
+  left: 82.29%;
+}
+.div14 {
+  left: 94.86%;
+}
+.shop-name-group,
+.shop-name-parent {
+  position: absolute;
+  height: 16.81%;
+  width: 100%;
+  top: 21.24%;
+  right: 0;
+  bottom: 61.95%;
+  left: 0;
+  font-size: var(--font-size-sm);
+  color: var(--color-forestgreen);
+}
+.shop-name-group {
+  top: 52.21%;
+  bottom: 30.97%;
+}
+.div27 {
+  position: absolute;
+  top: 10.53%;
+  left: 82.57%;
+  font-weight: 500;
+}
+.shop-name-container {
+  position: absolute;
+  height: 16.81%;
+  width: 100%;
+  top: 83.19%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  font-size: var(--font-size-sm);
+  color: var(--color-tomato);
+}
+.d-parent,
+.s {
+  position: absolute;
+  top: 0;
+  left: 96.29%;
+}
+.d-parent {
+  height: 12.12%;
+  width: 81.4%;
+  top: 18.13%;
+  right: 9.53%;
+  bottom: 69.74%;
+  left: 9.07%;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkgray-400);
+}
+
+.activated-package {
+  position: relative;
+  background-color: var(--color-whitesmoke-100);
+  width: 100%;
+  height: 932px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-600);
+  font-family: var(--font-inter);
+}

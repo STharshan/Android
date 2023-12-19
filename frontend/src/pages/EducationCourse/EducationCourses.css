@@ -1,0 +1,73 @@
+.company-name-here4,
+.div35 {
+  position: absolute;
+  top: 0;
+  left: 16.2%;
+  font-weight: 500;
+}
+.div35 {
+  top: 5.63%;
+  font-size: var(--font-size-xs);
+}
+.group-child71 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-300);
+  width: 48px;
+  height: 48px;
+}
+.group-child72 {
+  position: absolute;
+  top: 61px;
+  left: 1px;
+  border-radius: var(--br-7xs);
+  width: 388px;
+  height: 365px;
+  object-fit: cover;
+}
+.bishare-icon4 {
+  position: absolute;
+  top: 8px;
+  left: 358px;
+  width: 26px;
+  height: 26px;
+  overflow: hidden;
+}
+.group-child73 {
+  position: absolute;
+  top: 3px;
+  left: 353px;
+  border-radius: var(--br-7xs);
+  border: 1px solid var(--color-darkorange);
+  box-sizing: border-box;
+  width: 36px;
+  height: 36px;
+}
+.company-name-here-parent2,
+.company-name-here-parent3 {
+  position: absolute;
+  height: 45.71%;
+  width: 90.47%;
+  top: 11.8%;
+  right: 4.88%;
+  bottom: 42.49%;
+  left: 4.65%;
+}
+.company-name-here-parent3 {
+  top: 60.73%;
+  bottom: -6.44%;
+}
+
+.education-courses1 {
+  position: relative;
+  background-color: var(--color-whitesmoke-100);
+  width: 100%;
+  height: 932px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-700);
+  font-family: var(--font-ibm-plex-sans);
+}

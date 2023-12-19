@@ -1,0 +1,54 @@
+.group-child131 {
+  border-radius: var(--br-7xs);
+  background-color: var(--color-goldenrod);
+}
+.group-child131,
+.rectangle-wrapper2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.request-advertisement1 {
+  position: absolute;
+  top: 0;
+  left: 14.22%;
+  font-weight: 600;
+}
+.riadvertisement-line-icon {
+  position: absolute;
+  height: 95.24%;
+  width: 9.8%;
+  top: 4.76%;
+  right: 90.2%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-parent20,
+.request-advertisement-parent {
+  position: absolute;
+  height: 35%;
+  width: 52.44%;
+  top: 31.67%;
+  right: 23.65%;
+  bottom: 33.33%;
+  left: 23.91%;
+}
+.group-parent20 {
+  height: 6.44%;
+  width: 90.47%;
+  top: 11.8%;
+  right: 4.88%;
+  bottom: 81.76%;
+  left: 4.65%;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--primary-pure-white);
+  font-family: var(--font-ibm-plex-sans);
+}

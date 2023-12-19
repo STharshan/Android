@@ -1,0 +1,42 @@
+.group-child122 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xs);
+  background-color: var(--primary-pure-white);
+  width: 335px;
+  height: 80px;
+}
+.group-child123 {
+  position: absolute;
+  top: 16px;
+  left: 17px;
+  border-radius: 50%;
+  background-color: var(--color-lemonchiffon);
+  width: 48px;
+  height: 48px;
+}
+.email-address1 {
+  position: absolute;
+  top: 17px;
+  left: 89px;
+  font-weight: 600;
+}
+.samplemailgmailcom2 {
+  position: absolute;
+  top: 45px;
+  left: 90px;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray-200);
+}
+.rectangle-parent92 {
+  position: absolute;
+  top: 242px;
+  left: 27px;
+  width: 335px;
+  height: 80px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray-300);
+  font-family: var(--font-ibm-plex-sans);
+}

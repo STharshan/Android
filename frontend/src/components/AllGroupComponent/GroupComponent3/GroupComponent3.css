@@ -1,0 +1,44 @@
+.component-child1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--primary-pure-white);
+}
+.choose {
+  position: absolute;
+  height: 39.5%;
+  width: 23.53%;
+  top: 30.25%;
+  left: 14.12%;
+  display: inline-block;
+}
+.iconamoonsearch,
+.mingcutedown-fill-icon {
+  position: absolute;
+  height: 37.25%;
+  width: 4.71%;
+  top: 32.5%;
+  right: 90.29%;
+  bottom: 30.25%;
+  left: 5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.mingcutedown-fill-icon {
+  right: 5%;
+  left: 90.29%;
+}
+.rectangle-wrapper {
+  width: 340px;
+  height: 40px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-dimgray-500);
+  font-family: var(--font-inter);
+}

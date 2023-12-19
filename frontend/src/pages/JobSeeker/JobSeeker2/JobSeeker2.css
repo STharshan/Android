@@ -1,0 +1,275 @@
+.frame-child {
+  position: absolute;
+  top: 261px;
+  left: 0;
+  background-color: var(--primary-pure-white);
+  width: 430px;
+  height: 48px;
+}
+.frame-item {
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-silver);
+  box-shadow: 0 21px 17px -16px rgba(255, 255, 255, 0.25);
+  width: 300px;
+}
+.frame-inner,
+.frame-item,
+.rectangle-container {
+  position: absolute;
+  top: 0;
+  height: 160px;
+}
+.frame-inner {
+  left: 312px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-silver);
+  box-shadow: 0 21px 17px -16px rgba(255, 255, 255, 0.25);
+  width: 300px;
+}
+.rectangle-container {
+  left: 20px;
+  width: 410px;
+}
+.all-items,
+.job-seekers {
+  position: absolute;
+  top: 333px;
+  left: 21px;
+  font-weight: 500;
+}
+.job-seekers {
+  top: 335px;
+  left: 314px;
+  font-size: var(--font-size-sm);
+  color: var(--color-goldenrod);
+  text-align: right;
+}
+.group-child,
+.group-item {
+  position: absolute;
+  height: 6.8%;
+  width: 100%;
+  top: 18.2%;
+  right: 0;
+  bottom: 75%;
+  left: 0;
+  background-color: var(--color-goldenrod);
+}
+.group-item {
+  height: 3.83%;
+  width: 9.3%;
+  top: 19.54%;
+  right: 4.65%;
+  bottom: 76.63%;
+  left: 86.05%;
+  border-radius: var(--br-7xs);
+  background-color: var(--primary-pure-white);
+}
+.carbonlocation-icon {
+  position: absolute;
+  height: 1.92%;
+  width: 4.65%;
+  top: 20.5%;
+  right: 6.98%;
+  bottom: 77.59%;
+  left: 88.37%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-parent,
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 430px;
+}
+.rectangle-group {
+  top: 110px;
+  height: 822px;
+}
+.sub-contractors {
+  position: absolute;
+  top: 0;
+  left: 25px;
+  font-weight: 500;
+}
+.material-symbolshome-outline-icon {
+  position: absolute;
+  height: 88.89%;
+  width: 11.35%;
+  top: 5.56%;
+  right: 88.65%;
+  bottom: 5.56%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sub-contractors-parent {
+  position: absolute;
+  top: 386px;
+  left: 18px;
+  width: 141px;
+  height: 18px;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkgray-600);
+}
+.job-seeker-child {
+  position: absolute;
+  top: 79px;
+  left: 0;
+  background-color: var(--color-gray-800);
+  width: 430px;
+  height: 778px;
+}
+.upload-your-cv {
+  position: absolute;
+  top: 46px;
+  left: 109px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  color: var(--color-darkslategray-200);
+  text-align: center;
+}
+.group-inner {
+  position: absolute;
+  top: 23px;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--primary-pure-white);
+  border: 0.8px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 336px;
+  height: 42px;
+}
+.full-name {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frame-child1,
+.rectangle-parent1 {
+  position: absolute;
+  top: 140px;
+  left: 25px;
+  width: 336px;
+  height: 65px;
+}
+.frame-child1 {
+  top: 244px;
+  border-radius: var(--br-xs);
+  background-color: var(--primary-pure-white);
+  border: 0.8px solid var(--color-lightgray);
+  box-sizing: border-box;
+  height: 42px;
+}
+.job-category {
+  position: absolute;
+  top: 221px;
+  left: 25px;
+}
+.rectangle-parent2,
+.rectangle-parent3 {
+  position: absolute;
+  top: 302px;
+  left: 25px;
+  width: 336px;
+  height: 65px;
+}
+.rectangle-parent3 {
+  top: 383px;
+}
+.frame-child2 {
+  top: 487px;
+  border-radius: var(--br-xs);
+  background-color: var(--primary-pure-white);
+  border: 0.8px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 336px;
+  height: 42px;
+}
+.frame-child2,
+.frame-child3,
+.upload-cv {
+  position: absolute;
+  left: 25px;
+}
+.frame-child3 {
+  top: 602px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-goldenrod);
+  border: 0.8px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 336px;
+  height: 42px;
+}
+.upload-cv {
+  top: 464px;
+}
+.mask-group-icon,
+.vector-icon11 {
+  position: absolute;
+  height: 2.44%;
+  width: 4.47%;
+  top: 70.52%;
+  right: 13.62%;
+  bottom: 27.03%;
+  left: 81.91%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.mask-group-icon {
+  height: 0.75%;
+  width: 2.4%;
+  top: 37.1%;
+  right: 14.57%;
+  bottom: 62.15%;
+  left: 83.02%;
+}
+.submit {
+  position: absolute;
+  top: 86.16%;
+  left: 41.34%;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--primary-pure-white);
+}
+.icround-close-icon {
+  position: absolute;
+  top: 10px;
+  left: 348px;
+  width: 26px;
+  height: 26px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.icons-bar-child10,
+.upload-your-cv-parent {
+  position: absolute;
+  background-color: var(--primary-pure-white);
+}
+.upload-your-cv-parent {
+  top: 110px;
+  left: 21px;
+  border-radius: var(--br-xl);
+  width: 387px;
+  height: 708px;
+  overflow: hidden;
+  font-size: var(--font-size-xs);
+  color: var(--system-colours-label-colour-primary-light);
+}
+
+.job-seeker {
+  position: relative;
+  background-color: var(--color-whitesmoke-300);
+  width: 100%;
+  height: 932px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-300);
+  font-family: var(--font-ibm-plex-sans);
+}

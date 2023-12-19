@@ -1,0 +1,112 @@
+.pharrow-left-bold-icon2 {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.contractors-name-here1 {
+  position: absolute;
+  top: 0;
+  left: 13.15%;
+  font-weight: 500;
+}
+.pharrow-left-bold-group {
+  position: absolute;
+  top: 110px;
+  left: 19px;
+  width: 251px;
+  height: 26px;
+}
+.roof-design2 {
+  position: absolute;
+  top: 26.21%;
+  left: 11.16%;
+  font-weight: 500;
+  color: var(--color-goldenrod);
+}
+.vector-icon6 {
+  position: absolute;
+  height: 66.67%;
+  width: 11.01%;
+  top: 16.67%;
+  right: 88.99%;
+  bottom: 16.67%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div3,
+.vector-parent1 {
+  position: absolute;
+  top: 0;
+}
+.div3 {
+  left: 19.27%;
+  font-weight: 500;
+}
+.vector-parent1 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.special-contractors-inner {
+  position: absolute;
+  height: 0.88%;
+  width: 25.35%;
+  top: 28.06%;
+  right: 62.79%;
+  bottom: 71.06%;
+  left: 11.86%;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+}
+.lorem-ipsum-dolor1 {
+  position: absolute;
+  top: 609px;
+  left: 48px;
+  font-size: var(--font-size-xs);
+  line-height: 160%;
+  color: var(--color-darkslategray-100);
+  text-align: justify;
+  display: inline-block;
+  width: 342px;
+}
+.our-projects1 {
+  position: absolute;
+  top: 864px;
+  left: 21px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: var(--color-dimgray-400);
+}
+.special-contractors-child,
+.special-contractors-item {
+  position: absolute;
+  top: 906px;
+  left: 21px;
+  border-radius: var(--br-9xs);
+  width: 389px;
+  height: 512px;
+  object-fit: cover;
+}
+.special-contractors-item {
+  top: 1434px;
+}
+
+.special-contractors {
+  position: relative;
+  background-color: var(--color-whitesmoke-100);
+  width: 100%;
+  height: 2049px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-600);
+  font-family: var(--font-ibm-plex-sans);
+}

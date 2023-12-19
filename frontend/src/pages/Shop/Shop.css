@@ -1,0 +1,40 @@
+.group-parent {
+  position: absolute;
+  top: 110px;
+  left: 0;
+  width: 430px;
+  height: 822px;
+}
+.pharrow-left-bold-icon4 {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.shop-name-here {
+  position: absolute;
+  top: 0;
+  left: 17.39%;
+  font-weight: 500;
+}
+.pharrow-left-bold-parent1 {
+  position: absolute;
+  top: 110px;
+  left: 19px;
+  width: 184px;
+  height: 26px;
+}
+.shop {
+  position: relative;
+  background-color: var(--color-whitesmoke-300);
+  width: 100%;
+  height: 932px;
+  overflow-y: auto;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-600);
+  font-family: var(--font-ibm-plex-sans);
+}

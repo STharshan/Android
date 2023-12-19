@@ -1,0 +1,125 @@
+.add-your-job1 {
+  position: absolute;
+  top: 46px;
+  left: 73px;
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  color: var(--color-darkslategray-200);
+  text-align: center;
+}
+.group-child112 {
+  position: absolute;
+  top: 23px;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--primary-pure-white);
+  border: 0.8px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 336px;
+  height: 42px;
+}
+.shop-name6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.rectangle-parent86 {
+  top: 140px;
+  width: 336px;
+  height: 65px;
+}
+.frame-child40,
+.image,
+.rectangle-parent86 {
+  position: absolute;
+  left: 25px;
+}
+.frame-child40 {
+  top: 244px;
+  border-radius: var(--br-xs);
+  background-color: var(--primary-pure-white);
+  border: 0.8px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 336px;
+  height: 42px;
+}
+.image {
+  top: 221px;
+}
+.rectangle-parent87,
+.upload-cv7 {
+  position: absolute;
+  left: 25px;
+  display: none;
+}
+.rectangle-parent87 {
+  top: 383px;
+  width: 336px;
+  height: 65px;
+}
+.upload-cv7 {
+  top: 464px;
+}
+.vector-icon48 {
+  position: absolute;
+  height: 4.29%;
+  width: 4.47%;
+  top: 63.52%;
+  right: 13.62%;
+  bottom: 32.18%;
+  left: 81.91%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-child114 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  background-color: var(--color-goldenrod);
+  border: 0.8px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 336px;
+  height: 42px;
+}
+.post {
+  position: absolute;
+  top: 19.05%;
+  left: 44.05%;
+  font-weight: 500;
+}
+.rectangle-parent88 {
+  position: absolute;
+  top: 317px;
+  left: 25px;
+  width: 336px;
+  height: 42px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--primary-pure-white);
+}
+.icround-close-icon7 {
+  position: absolute;
+  top: 10px;
+  left: 348px;
+  width: 26px;
+  height: 26px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.add-your-job-vacancy-parent {
+  position: absolute;
+  top: 244px;
+  left: 20px;
+  border-radius: var(--br-xl);
+  background-color: var(--primary-pure-white);
+  width: 387px;
+  height: 403px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--system-colours-label-colour-primary-light);
+  font-family: var(--font-ibm-plex-sans);
+}

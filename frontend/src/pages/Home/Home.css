@@ -1,0 +1,49 @@
+.group-child111,
+.home-inner {
+  position: absolute;
+  height: 26px;
+}
+.group-child111 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  background-color: var(--color-gainsboro-100);
+  overflow: hidden;
+}
+.home-inner {
+  top: 387px;
+  left: 345px;
+  width: 108px;
+}
+.rectangle4 {
+  position: absolute;
+  height: 59.12%;
+  width: 100%;
+  top: 31.75%;
+  right: 0;
+  bottom: 9.12%;
+  left: 0;
+  background-color: var(--secondary-off-grey);
+}
+.rectangle-parent85 {
+  position: absolute;
+  top: 855px;
+  left: 0;
+  width: 430px;
+  height: 75px;
+}
+.rectangle-parent85 {
+  top: 110px;
+  height: 822px;
+}
+.home102 {
+  position: relative;
+  background-color: var(--color-whitesmoke-100);
+  width: 100%;
+  height: 932px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--color-darkgray-500);
+  font-family: var(--font-inter);
+}

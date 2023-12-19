@@ -1,0 +1,23 @@
+.start-child {
+  position: absolute;
+  height: 11%;
+  width: 56.51%;
+  top: 46.24%;
+  right: 21.86%;
+  bottom: 46.35%;
+  left: 21.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.start {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--primary-pure-white);
+  position: relative;
+  width: 100%;
+  height: 550px;
+  overflow-y: auto;
+}

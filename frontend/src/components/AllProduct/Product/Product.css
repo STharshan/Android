@@ -1,0 +1,99 @@
+.dummy-product2,
+.image-5-icon {
+  position: absolute;
+  width: 130px;
+  height: 130px;
+}
+.image-5-icon {
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+.dummy-product2 {
+  top: 15px;
+  left: 27px;
+  overflow: hidden;
+}
+.rs-1500,
+.tma-2-hd-wireless {
+  position: absolute;
+  left: 0;
+  letter-spacing: 0.2px;
+}
+.tma-2-hd-wireless {
+  top: 0;
+  font-weight: 500;
+}
+.rs-1500 {
+  top: 20px;
+  color: var(--color-goldenrod);
+}
+.product-inner3,
+.tma-2-hd-wireless-parent,
+.vector-icon50 {
+  position: absolute;
+  top: -4px;
+  left: 9px;
+  width: 113px;
+  height: 36px;
+}
+.product-inner3,
+.vector-icon50 {
+  top: 165px;
+  left: 10px;
+}
+.vector-icon50 {
+  height: 61.36%;
+  width: 10.36%;
+  top: 22.73%;
+  right: 89.64%;
+  bottom: 15.91%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div40 {
+  position: absolute;
+  height: 100%;
+  width: 81.82%;
+  top: 0;
+  left: 18.18%;
+  font-weight: 500;
+  display: inline-block;
+}
+.product-inner4,
+.vector-parent4 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.product-inner4 {
+  height: 5.74%;
+  width: 46.97%;
+  top: 88.26%;
+  right: 42.05%;
+  bottom: 6%;
+  left: 10.97%;
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-200);
+  font-family: var(--font-ibm-plex-sans);
+}
+.product3 {
+  position: absolute;
+  top: 375px;
+  left: 20px;
+  border-radius: var(--br-3xs);
+  background-color: var(--primary-pure-white);
+  box-shadow: var(--card-product-list);
+  width: 185px;
+  height: 230px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--primary-navy-black);
+  font-family: var(--font-dm-sans);
+}

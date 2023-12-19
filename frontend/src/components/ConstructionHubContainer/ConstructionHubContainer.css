@@ -1,0 +1,44 @@
+.body,
+.save-and-print {
+  position: absolute;
+  left: 0;
+  width: 295px;
+}
+.save-and-print {
+  top: 0;
+  letter-spacing: -0.3px;
+  line-height: 24px;
+  display: inline-block;
+}
+.body {
+  top: 92px;
+  height: 72px;
+  opacity: 0.6;
+  mix-blend-mode: normal;
+}
+.all-your-photos,
+.content,
+.title2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 295px;
+}
+.all-your-photos {
+  font-size: var(--font-size-5xl);
+  letter-spacing: -0.8px;
+  line-height: 34px;
+  display: inline-block;
+}
+.content,
+.title2 {
+  height: 164px;
+}
+.content {
+  top: 483px;
+  left: 64px;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-500);
+  font-family: var(--font-inter);
+}

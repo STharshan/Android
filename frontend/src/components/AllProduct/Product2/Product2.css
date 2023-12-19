@@ -1,0 +1,62 @@
+.dummy-product-item {
+  position: absolute;
+  height: 97.12%;
+  width: 123.08%;
+  top: 8.65%;
+  right: -23.08%;
+  bottom: -5.77%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.dummy-product1 {
+  position: absolute;
+  top: 15px;
+  left: 27px;
+  width: 130px;
+  height: 104px;
+  overflow: hidden;
+}
+.contractor-name1,
+.roof-design4 {
+  position: absolute;
+  left: 0;
+  letter-spacing: 0.2px;
+}
+.contractor-name1 {
+  top: 0;
+  font-weight: 500;
+}
+.roof-design4 {
+  top: 20px;
+  color: var(--color-goldenrod);
+}
+.contractor-name-group,
+.product-inner2,
+.product2 {
+  position: absolute;
+  top: -4px;
+  left: 9px;
+  width: 113px;
+  height: 36px;
+}
+.product-inner2,
+.product2 {
+  top: 145px;
+  left: 10px;
+}
+.product2 {
+  top: 384px;
+  left: 20px;
+  border-radius: var(--br-3xs);
+  background-color: var(--primary-pure-white);
+  box-shadow: var(--card-product-list);
+  width: 185px;
+  height: 196px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--primary-navy-black);
+  font-family: var(--font-dm-sans);
+}
